@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Prits001
 - 🌱 I’m currently working with js/python/c#/rust
-- 📫 How to reach me: discord - Prits#2138
+- 📫 How to reach me: discord - Prits#7777
