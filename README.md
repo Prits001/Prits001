@@ -8,7 +8,7 @@
 - I’m currently working with TypeScript/Python/Rust
 - Developing Discord bots on Pycord
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/478869660851372062?theme=dark&bg=6e18a0&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/478869660851372062)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/478869660851372062?theme=dark&bg=6e18a0&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/478869660851372062)
 
 ## I have experience with:
 [![My Skills](https://skills.thijs.gg/icons?i=py,ts,js,rust,unity,cs,cpp,java,kotlin,lua,swift,git,vim,html,css)]()
